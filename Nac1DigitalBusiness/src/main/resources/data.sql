@@ -1,1 +1,1 @@
---INSERT INTO Produto(id, nome, quantidade, preco, criada_em, ultima_atualizacao) VALUES (SQ_TAREFA.nextval, 'notebook', 4, 1200,  '2020-08-31', '2020-08-05');
+INSERT INTO Paciente(codigo, nome, nr_cpf, tp_sanguineo, ds_genero, email,nr_telefone) VALUES (SQ_TAREFA.nextval, 'guilherme', 'guilherme', 'guilherme',  'guilherme', 'guilherme',6546546);
