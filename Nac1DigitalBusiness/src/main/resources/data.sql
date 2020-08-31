@@ -1,0 +1,1 @@
+--INSERT INTO Produto(id, nome, quantidade, preco, criada_em, ultima_atualizacao) VALUES (SQ_TAREFA.nextval, 'notebook', 4, 1200,  '2020-08-31', '2020-08-05');
