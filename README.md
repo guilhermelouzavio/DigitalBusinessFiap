@@ -39,18 +39,14 @@ Built With
 <ul>
  <li>Java<li/>
  <li>Spring<li/>
- <ul/>
+<ul/>
 
 Authors
 ------------------------------
 
 <ul>
- <li>
   <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
- <li/>
-  <li>
-   <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
- <li/> 
+  <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
  <ul/>
 
 
