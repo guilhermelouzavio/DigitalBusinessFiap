@@ -34,10 +34,22 @@ DELETE/pacientes/{id}
 
 Built With
 ------------------------------
-Java
-Spring
+<ul>
+ <li>Java<li/>
+  <li>Spring<li/>Spring
+ <ul/>
 
 Authors
 ------------------------------
-Guilherme Louzavio RM: 84053
-Bruno Teixeira RM:81214
+
+<ul>
+ <li>
+  <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
+ <li/>
+  <li>
+   <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
+ <li/>
+ 
+ <ul/>
+
+
