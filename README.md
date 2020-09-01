@@ -4,7 +4,7 @@ Test in PostMan
 Port: 8084
 
 GET/pacientes
-______________________________
+------------------------------
 POST/pacientes
 JSON body:
  {
@@ -15,8 +15,9 @@ JSON body:
     "email" = "xxxx@.com";
     "telefone" = "9 9999-5555";
   }
-_____________________________
+
 PUT/pacientes/{id}
+------------------------------
 JSON body:
  {
     "nome": "name",
@@ -27,11 +28,16 @@ JSON body:
     "telefone" = "9 9999-5555";
   }
   }
-_____________________________
+  
 DELETE/pacientes/{id} 
+------------------------------
+
 Built With
+------------------------------
 Java
 Spring
+
 Authors
+------------------------------
 Guilherme Louzavio RM: 84053
 Bruno Teixeira RM:81214
