@@ -3,7 +3,7 @@
 Test in PostMan
 Port: 8084
 
-,,,
+````
 
 GET/pacientes
 ------------------------------
@@ -33,7 +33,8 @@ JSON body:
   
 DELETE/pacientes/{id} 
 ------------------------------
-,,,
+````
+
 Built With
 ------------------------------
 <ul>
@@ -47,8 +48,10 @@ Authors
 ------------------------------
 
 <ul>
+ <li>
   <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
+  <li>
   <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
- <ul/>
+<ul/>
 
 
