@@ -34,16 +34,6 @@ JSON body:
 DELETE/pacientes/{id} 
 ____________________________
 ````
-
-Authors
-------------------------------
-<ul>
- <li>
-  <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
-  <li>
-  <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
-<ul/>
-   
 Built With
 ------------------------------
 <ul>
@@ -53,6 +43,16 @@ Built With
    <a href="https://spring.io/projects/spring-boot">Spring</a>
 <ul/>
  
+# Authors
+
+<ul>
+ <li>
+  <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
+  <li>
+  <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
+<ul/>
+   
+
 
 
 
