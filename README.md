@@ -3,6 +3,8 @@
 Test in PostMan
 Port: 8084
 
+,,,
+
 GET/pacientes
 ------------------------------
 POST/pacientes
@@ -31,12 +33,12 @@ JSON body:
   
 DELETE/pacientes/{id} 
 ------------------------------
-
+,,,
 Built With
 ------------------------------
 <ul>
  <li>Java<li/>
-  <li>Spring<li/>Spring
+ <li>Spring<li/>
  <ul/>
 
 Authors
@@ -48,8 +50,7 @@ Authors
  <li/>
   <li>
    <a href="https://github.com/ibrunera">Bruno Teixeira RM:81214</a>
- <li/>
- 
+ <li/> 
  <ul/>
 
 
