@@ -39,14 +39,13 @@ Built With
 ------------------------------
 <ul>
  <li>
-  Java
+  [Java](https://www.java.com/pt_BR/about/)
  <li>
-  Spring
+  [Spring](https://spring.io/projects/spring-boot)
 <ul/>
  
 Authors
 ------------------------------
-
 <ul>
  <li>
   <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
