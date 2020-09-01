@@ -37,8 +37,10 @@ DELETE/pacientes/{id}
 Built With
 ------------------------------
 <ul>
- <li>Java<li/>
- <li>Spring<li/>
+ <li>
+  Java
+  Spring
+ <li/>
 <ul/>
 
 Authors
