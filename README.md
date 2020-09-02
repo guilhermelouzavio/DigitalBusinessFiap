@@ -50,6 +50,8 @@ ____________________________
   <a href="https://github.com/ibrunera">Bruno Teixeira RM: 81214</a>
    <li>
   <a href="https://github.com/TGF0911">Thais Gennari RM: 83803</a>
+    <li>
+  <a href="https://github.com/thiagopvc">Thiago Pintor do Vale Correia RM: 82458</a>
 <ul/>
 
   
